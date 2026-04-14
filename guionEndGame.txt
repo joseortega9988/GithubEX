@@ -1,10 +1,15 @@
 TONY
+<<<<<<< HEAD
 Tony no encontro el guante 
+=======
+Consigue el guante del infinito 
+I couldn't kill him
+>>>>>>> 2620acc7dff4ae155391ff23d6bda757b1301740
 STEVEN
 either could we.
 TONY
 I loaaast the kid 
-BLACK WIDOW
+LOGAN
 (unable to say is all)
 TONY
 Is Pepper .....?
