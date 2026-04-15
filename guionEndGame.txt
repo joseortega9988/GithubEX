@@ -1,5 +1,10 @@
 TONY
-Tony NO encontro el guante con papas 
+<<<<<<< HEAD
+Tony no encontro el guante 
+=======
+Consigue el guante del infinito 
+I couldn't kill him
+>>>>>>> 2620acc7dff4ae155391ff23d6bda757b1301740
 STEVEN
 either could we.
 TONY
